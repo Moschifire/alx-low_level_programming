@@ -2,7 +2,7 @@
 /*
  * funtion main - this is a description
 */
-void main(void)
+int main(void)
 {
 	char myStr[] = "\"Programming is like building a multilingual puzzle";
 
